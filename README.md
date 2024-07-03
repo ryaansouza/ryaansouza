@@ -7,11 +7,11 @@
 -------------------------------------------
 ## Sobre mim 👨‍🎓
 
-- ✌️ Olaa, meu nome é Ryan e tenho 21 anos.
+- ✌️ Olaa, meu nome é Ryan e tenho 22 anos.
 - 🏠 Atualmente moro em Votorantim SP. 
 - 🎮 Gosto muito de jogar, assistir animes e series
 - 🎓 Sou tecnologo em Análise e Desenvolvimento de Sistemas.
-- 🎯 Tenho muito interesse no desenvolvimento relacionado ao backend.
+- 🎯 Tenho muito interesse no desenvolvimento web.
 
 -------------------------------------------
 ## Aprendendo 📖
