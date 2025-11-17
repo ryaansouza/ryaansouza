@@ -7,7 +7,7 @@
 -------------------------------------------
 ## Sobre mim 👨‍🎓
 
-- ✌️ Olaa, meu nome é Ryan e tenho 22 anos.
+- ✌️ Olaa, meu nome é Ryan e tenho 23 anos.
 - 🏠 Atualmente moro em Votorantim SP. 
 - 🎮 Gosto muito de jogar, assistir animes e series
 - 🎓 Sou tecnologo em Análise e Desenvolvimento de Sistemas.
@@ -24,5 +24,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) 
 -------------------------------------------
 ## GitHub Status 📈
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryaansouza&layout=compact&bg_color=000&border_color=0000FF&title_color=FFFF&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryaansouza&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryaansouza&theme=transparent&bg_color=000&border_color=0000FF&show_icons=true&icon_color=30A3DC&title_color=0000FF&text_color=FFF&hide_title=true&hide=stars)
